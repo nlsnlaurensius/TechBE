@@ -1,3 +1,3 @@
-Sorry udah bikin kacau BE nya, tapi harusnya udah bener.
+## Back-end dari OfficeManager
 
-<p>Harusnya gaada yg berubah dari BE Nelson, cuman just in case gw push aja</p>
+[Link repo front-end](https://github.com/nlsnlaurensius/TechFE)
